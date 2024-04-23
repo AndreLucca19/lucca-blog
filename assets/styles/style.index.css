@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+20+Charted&display=swap');
+
+jersey-20-charted-regular {
+    font-family: "Jersey 20 Charted", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
